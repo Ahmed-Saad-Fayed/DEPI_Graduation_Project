@@ -45,7 +45,7 @@ Each module has its own dedicated sheet within the test document:
 
 
 ## 📄 Manual_Testing.xlsx
-│
+
 ├── SignUp              → Account creation scenarios
 ├── SignIn              → Login, session management
 ├── Product List        → Search, filters, and display
@@ -56,7 +56,6 @@ Each module has its own dedicated sheet within the test document:
 ├── Payment Processing  → Payment validation scenarios
 ├── Invoice Generation  → Invoice display & data accuracy
 └── Bug Report          → All defect logs
-│
 
 ---
 
