@@ -43,18 +43,20 @@ The manual testing process focuses on the following key modules:
 
 Each module has its own dedicated sheet within the test document:
 
+```
 📄 Manual_Testing.xlsx
 │
-├── SignUp → Account creation scenarios
-├── SignIn → Login, session management
-├── Product List → Search, filters, and display
-├── Contact Us → Form validation and submission
-├── Subscription → Opt-in/out processes
-├── Shopping Cart → Cart functionality
-├── Checkout Process → Address & order flow
-├── Payment Processing → Payment validation scenarios
-├── Invoice Generation → Invoice display & data accuracy
-└── Bug Report → All defect logs
+├── SignUp              → Account creation scenarios
+├── SignIn              → Login, session management
+├── Product List        → Search, filters, and display
+├── Contact Us          → Form validation and submission
+├── Subscription        → Opt-in/out processes
+├── Shopping Cart       → Cart functionality
+├── Checkout Process    → Address & order flow
+├── Payment Processing  → Payment validation scenarios
+├── Invoice Generation  → Invoice display & data accuracy
+└── Bug Report          → All defect logs
+```
 
 ---
 
