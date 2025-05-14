@@ -43,8 +43,8 @@ The manual testing process focuses on the following key modules:
 
 Each module has its own dedicated sheet within the test document:
 
-```
-📄 Manual_Testing.xlsx
+
+## 📄 Manual_Testing.xlsx
 │
 ├── SignUp              → Account creation scenarios
 ├── SignIn              → Login, session management
@@ -56,7 +56,7 @@ Each module has its own dedicated sheet within the test document:
 ├── Payment Processing  → Payment validation scenarios
 ├── Invoice Generation  → Invoice display & data accuracy
 └── Bug Report          → All defect logs
-```
+│
 
 ---
 
